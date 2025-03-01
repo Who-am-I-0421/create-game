@@ -1,5 +1,6 @@
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
+    // ... 其他程式碼 ...
 public class RotateGear : MonoBehaviour
 {
     public float rotationSpeed = 100f; // 控制旋转速度

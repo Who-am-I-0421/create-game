@@ -6,14 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: "Assets/Scenes/\u8A2D\u5B9A\u9801\u9762.unity"
+    guid: c831a9d9cbcf8434b91937ec4dab1a6d
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
-    guid: 413c2bd8796b0f14d81e0aabf8ea6924
-  - enabled: 1
     path: Assets/Scenes/GameScene.unity
     guid: 620d5bdb740829b4793a87d1a054870b
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 413c2bd8796b0f14d81e0aabf8ea6924
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 5141d947503fe804a84aaf31365f6f9c, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
